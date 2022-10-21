@@ -1,0 +1,19 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "kalkulator sederhana",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [],
+  "author": "Sendi Lugita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
